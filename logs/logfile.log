@@ -1,0 +1,197 @@
+ 2024-07-29 13:59:37,969 : INFO : Test_Loginpage : test_user_login_001 : 18 : test_user_login_001 started
+ 2024-07-29 13:59:37,969 : INFO : Test_Loginpage : test_user_login_001 : 21 : Opening browser
+ 2024-07-29 13:59:38,416 : INFO : Test_Loginpage : test_user_login_001 : 25 : Going to URL -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 13:59:38,426 : INFO : Test_Loginpage : test_user_login_001 : 28 : page title --IndiConnect-Branchless Banking
+ 2024-07-29 14:05:32,046 : INFO : Test_Loginpage : test_user_login_001 : 18 : test_user_login_001 started
+ 2024-07-29 14:05:32,046 : INFO : Test_Loginpage : test_user_login_001 : 21 : Opening browser
+ 2024-07-29 14:05:32,745 : INFO : Test_Loginpage : test_user_login_001 : 25 : Going to URL -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:05:32,759 : INFO : Test_Loginpage : test_user_login_001 : 29 : page title --IndiConnect-Branchless Banking
+ 2024-07-29 14:05:32,842 : INFO : Test_Loginpage : test_user_login_001 : 42 : opening URL
+ 2024-07-29 14:08:26,284 : INFO : Test_Loginpage : test_user_login_001 : 18 : test_user_login_001 started
+ 2024-07-29 14:08:26,284 : INFO : Test_Loginpage : test_user_login_001 : 21 : Opening browser
+ 2024-07-29 14:08:26,871 : INFO : Test_Loginpage : test_user_login_001 : 25 : Going to URL -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:08:26,890 : INFO : Test_Loginpage : test_user_login_001 : 29 : page title --IndiConnect-Branchless Banking
+ 2024-07-29 14:08:27,019 : INFO : Test_Loginpage : test_user_login_001 : 42 : opening URL
+ 2024-07-29 14:10:10,192 : INFO : Test_Loginpage : test_user_login_001 : 19 : test_user_login_001 started
+ 2024-07-29 14:10:10,192 : INFO : Test_Loginpage : test_user_login_001 : 22 : Opening browser
+ 2024-07-29 14:10:10,192 : INFO : Test_Loginpage : test_user_login_001 : 25 : opening URL
+ 2024-07-29 14:12:00,923 : INFO : Test_Loginpage : test_user_login_001 : 19 : test_user_login_001 started
+ 2024-07-29 14:12:01,394 : INFO : Test_Loginpage : test_user_login_001 : 23 : Going to URL -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:12:01,394 : INFO : Test_Loginpage : test_user_login_001 : 25 : Opening browser
+ 2024-07-29 14:12:01,394 : INFO : Test_Loginpage : test_user_login_001 : 32 : Entering username
+ 2024-07-29 14:13:12,308 : INFO : Test_Loginpage : test_user_login_001 : 19 : test_user_login_001 started
+ 2024-07-29 14:13:13,028 : INFO : Test_Loginpage : test_user_login_001 : 23 : Going to URL -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:13:13,029 : INFO : Test_Loginpage : test_user_login_001 : 25 : Opening browser
+ 2024-07-29 14:13:13,029 : INFO : Test_Loginpage : test_user_login_001 : 32 : Entering username
+ 2024-07-29 14:18:48,445 : INFO : TestLoginPage : test_user_login_001 : 24 : Starting test_user_login_001
+ 2024-07-29 14:18:50,115 : INFO : TestLoginPage : test_user_login_001 : 29 : Navigated to URL: https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:19:36,654 : INFO : TestLoginPage : test_user_login_001 : 24 : Starting test_user_login_001
+ 2024-07-29 14:19:38,142 : INFO : TestLoginPage : test_user_login_001 : 29 : Navigated to URL: https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:19:38,142 : INFO : TestLoginPage : test_user_login_001 : 35 : Entering username
+ 2024-07-29 14:19:38,301 : INFO : TestLoginPage : test_user_login_001 : 38 : Entering password
+ 2024-07-29 14:19:38,440 : INFO : TestLoginPage : test_user_login_001 : 44 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 14:19:38,586 : INFO : TestLoginPage : test_user_login_001 : 52 : Test case test_user_login_001 executed
+ 2024-07-29 14:20:27,244 : INFO : TestLoginPage : test_user_login_001 : 24 : Starting test_user_login_001
+ 2024-07-29 14:20:28,691 : INFO : TestLoginPage : test_user_login_001 : 29 : Navigated to URL: https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:20:28,692 : INFO : TestLoginPage : test_user_login_001 : 35 : Entering username
+ 2024-07-29 14:20:28,877 : INFO : TestLoginPage : test_user_login_001 : 38 : Entering password
+ 2024-07-29 14:20:29,034 : INFO : TestLoginPage : test_user_login_001 : 44 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 14:20:29,185 : INFO : TestLoginPage : test_user_login_001 : 52 : Test case test_user_login_001 executed
+ 2024-07-29 14:21:26,202 : INFO : TestLoginPage : test_user_login_001 : 24 : Starting test_user_login_001
+ 2024-07-29 14:21:27,688 : INFO : TestLoginPage : test_user_login_001 : 29 : Navigated to URL: https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:21:27,688 : INFO : TestLoginPage : test_user_login_001 : 35 : Entering username
+ 2024-07-29 14:21:27,871 : INFO : TestLoginPage : test_user_login_001 : 38 : Entering password
+ 2024-07-29 14:21:28,003 : INFO : TestLoginPage : test_user_login_001 : 44 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 14:21:28,193 : INFO : TestLoginPage : test_user_login_001 : 52 : Test case test_user_login_001 executed
+ 2024-07-29 14:21:59,086 : INFO : TestLoginPage : test_user_login_001 : 26 : Starting test_user_login_001
+ 2024-07-29 14:22:00,618 : INFO : TestLoginPage : test_user_login_001 : 31 : Navigated to URL: https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 14:22:00,619 : INFO : TestLoginPage : test_user_login_001 : 37 : Entering username
+ 2024-07-29 14:22:00,963 : INFO : TestLoginPage : test_user_login_001 : 40 : Entering password
+ 2024-07-29 14:22:04,099 : INFO : TestLoginPage : test_user_login_001 : 47 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 14:22:04,183 : INFO : TestLoginPage : test_user_login_001 : 55 : Test case test_user_login_001 executed
+ 2024-07-29 16:22:17,386 : INFO : TestLoginPage : test_user_login_001 : 28 : Starting test_user_login_001
+ 2024-07-29 16:22:18,955 : INFO : TestLoginPage : test_user_login_001 : 33 : Navigated to URL: https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 16:22:18,955 : INFO : TestLoginPage : test_user_login_001 : 39 : Entering username
+ 2024-07-29 16:22:19,141 : INFO : TestLoginPage : test_user_login_001 : 42 : Entering password
+ 2024-07-29 16:22:22,274 : INFO : TestLoginPage : test_user_login_001 : 46 : Submitting Username and password
+ 2024-07-29 16:22:22,341 : INFO : TestLoginPage : test_user_login_001 : 49 : Entering OTP123456
+ 2024-07-29 17:06:05,556 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 17:06:05,557 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 17:06:06,018 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:06:06,039 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:06:06,107 : INFO : TestLoginPage : test_page_title_001 : 37 : Test case test_user_login_001 executed
+ 2024-07-29 17:07:37,566 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 17:07:37,566 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 17:07:37,970 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:07:37,981 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:07:38,109 : INFO : TestLoginPage : test_page_title_001 : 37 : Test case test_user_login_001 executed
+ 2024-07-29 17:16:49,664 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 17:16:49,665 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 17:16:50,244 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:16:50,277 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:16:50,277 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 17:17:02,841 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 17:17:02,841 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 17:17:40,891 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 17:17:40,891 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 17:17:41,408 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:17:41,422 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:17:41,422 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 17:17:49,873 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 17:17:49,873 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 17:17:50,286 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:20:30,000 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 17:20:30,000 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 17:20:30,398 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:20:30,407 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:20:30,407 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 17:20:38,383 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 17:20:38,384 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 17:20:42,105 : INFO : TestLoginPage : test_Login_002 : 50 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:22:23,849 : INFO : TestLoginPage : test_page_title_001 : 22 : test_page_title_001 is started
+ 2024-07-29 17:22:23,850 : INFO : TestLoginPage : test_page_title_001 : 24 : Opening Browser
+ 2024-07-29 17:22:24,555 : INFO : TestLoginPage : test_page_title_001 : 27 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:22:24,577 : INFO : TestLoginPage : test_page_title_001 : 31 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:22:24,578 : INFO : TestLoginPage : test_page_title_001 : 40 : Test case test_user_login_001 executed
+ 2024-07-29 17:22:32,542 : INFO : TestLoginPage : test_Login_002 : 44 : Starting Test_Login_002
+ 2024-07-29 17:22:32,542 : INFO : TestLoginPage : test_Login_002 : 47 : Opening browser and navigating to login page
+ 2024-07-29 17:32:25,337 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 17:32:25,337 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 17:32:25,893 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:32:25,905 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 17:32:25,905 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 17:32:33,704 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 17:32:33,704 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 17:32:34,117 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 17:32:34,118 : INFO : TestLoginPage : test_Login_002 : 53 : Entering username
+ 2024-07-29 18:34:57,637 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:34:57,637 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:34:58,104 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:34:58,116 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 18:34:58,117 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 18:35:06,139 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 18:35:06,139 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 18:35:06,800 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:35:06,800 : INFO : TestLoginPage : test_Login_002 : 53 : Entering username
+ 2024-07-29 18:41:19,673 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:41:19,673 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:41:24,540 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 18:41:24,540 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 18:42:35,821 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:42:35,821 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:42:40,646 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 18:42:40,646 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 18:42:41,239 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:43:00,089 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:43:00,090 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:43:05,179 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 18:43:05,179 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 18:43:05,747 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:43:05,747 : INFO : TestLoginPage : test_Login_002 : 53 : Entering username
+ 2024-07-29 18:43:06,041 : INFO : TestLoginPage : test_Login_002 : 57 : Entering password
+ 2024-07-29 18:43:06,254 : INFO : TestLoginPage : test_Login_002 : 60 : click login button
+ 2024-07-29 18:43:59,627 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:43:59,627 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:44:04,445 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 18:44:04,445 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 18:44:05,030 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:44:05,030 : INFO : TestLoginPage : test_Login_002 : 53 : Entering username
+ 2024-07-29 18:44:05,339 : INFO : TestLoginPage : test_Login_002 : 57 : Entering password
+ 2024-07-29 18:44:05,469 : INFO : TestLoginPage : test_Login_002 : 60 : click login button
+ 2024-07-29 18:44:47,085 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:44:47,086 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:44:47,574 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:44:47,584 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 18:44:47,584 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 18:44:55,418 : INFO : TestLoginPage : test_Login_002 : 43 : Test_Login_002 is started
+ 2024-07-29 18:44:55,418 : INFO : TestLoginPage : test_Login_002 : 46 : opening Browser
+ 2024-07-29 18:44:55,842 : INFO : TestLoginPage : test_Login_002 : 49 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:44:55,842 : INFO : TestLoginPage : test_Login_002 : 53 : Entering username
+ 2024-07-29 18:44:56,175 : INFO : TestLoginPage : test_Login_002 : 57 : Entering password
+ 2024-07-29 18:44:56,251 : INFO : TestLoginPage : test_Login_002 : 60 : click login button
+ 2024-07-29 18:53:47,299 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:53:47,300 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:53:47,765 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:53:47,774 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 18:53:47,775 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 18:53:55,603 : INFO : TestLoginPage : test_Login_002 : 42 : Test_Login_002 is started
+ 2024-07-29 18:53:55,603 : INFO : TestLoginPage : test_Login_002 : 45 : opening Browser
+ 2024-07-29 18:53:56,077 : INFO : TestLoginPage : test_Login_002 : 48 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:53:56,077 : INFO : TestLoginPage : test_Login_002 : 51 : Entering username
+ 2024-07-29 18:53:56,410 : INFO : TestLoginPage : test_Login_002 : 54 : Entering password
+ 2024-07-29 18:53:56,494 : INFO : TestLoginPage : test_Login_002 : 57 : click login button
+ 2024-07-29 18:56:03,299 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:56:03,299 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:56:03,775 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:56:03,785 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 18:56:03,785 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 18:56:11,896 : INFO : TestLoginPage : test_Login_002 : 42 : Test_Login_002 is started
+ 2024-07-29 18:56:11,896 : INFO : TestLoginPage : test_Login_002 : 45 : opening Browser
+ 2024-07-29 18:56:12,479 : INFO : TestLoginPage : test_Login_002 : 48 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:56:12,479 : INFO : TestLoginPage : test_Login_002 : 51 : Entering username
+ 2024-07-29 18:56:12,770 : INFO : TestLoginPage : test_Login_002 : 54 : Entering password
+ 2024-07-29 18:56:12,872 : INFO : TestLoginPage : test_Login_002 : 57 : click login button
+ 2024-07-29 18:59:51,603 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 18:59:51,603 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 18:59:52,035 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 18:59:52,044 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 18:59:52,044 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 18:59:59,865 : INFO : TestLoginPage : test_Login_002 : 42 : Test_Login_002 is started
+ 2024-07-29 18:59:59,865 : INFO : TestLoginPage : test_Login_002 : 45 : opening Browser
+ 2024-07-29 19:00:00,457 : INFO : TestLoginPage : test_Login_002 : 48 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 19:00:00,457 : INFO : TestLoginPage : test_Login_002 : 51 : Entering username
+ 2024-07-29 19:00:00,658 : INFO : TestLoginPage : test_Login_002 : 54 : Entering password
+ 2024-07-29 19:00:00,752 : INFO : TestLoginPage : test_Login_002 : 57 : click login button
+ 2024-07-29 19:00:00,953 : INFO : TestLoginPage : test_Login_002 : 60 : Enter OTP 
+ 2024-07-29 19:04:15,208 : INFO : TestLoginPage : test_page_title_001 : 20 : test_page_title_001 is started
+ 2024-07-29 19:04:15,208 : INFO : TestLoginPage : test_page_title_001 : 22 : Opening Browser
+ 2024-07-29 19:04:15,759 : INFO : TestLoginPage : test_page_title_001 : 25 : Going to Url -->https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 19:04:15,768 : INFO : TestLoginPage : test_page_title_001 : 29 : Page title is correct: IndiConnect-Branchless Banking
+ 2024-07-29 19:04:15,769 : INFO : TestLoginPage : test_page_title_001 : 38 : Test case test_user_login_001 executed
+ 2024-07-29 19:04:23,620 : INFO : TestLoginPage : test_Login_002 : 42 : Test_Login_002 is started
+ 2024-07-29 19:04:23,620 : INFO : TestLoginPage : test_Login_002 : 45 : opening Browser
+ 2024-07-29 19:04:24,359 : INFO : TestLoginPage : test_Login_002 : 48 : Going to URL --https://uat.admin.ccs.indiconnect.in
+ 2024-07-29 19:04:24,359 : INFO : TestLoginPage : test_Login_002 : 51 : Entering username
+ 2024-07-29 19:04:24,439 : INFO : TestLoginPage : test_Login_002 : 54 : Entering password
+ 2024-07-29 19:04:24,526 : INFO : TestLoginPage : test_Login_002 : 57 : click login button
+ 2024-07-29 19:04:24,808 : INFO : TestLoginPage : test_Login_002 : 60 : Enter OTP 

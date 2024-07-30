@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad9c2f88-0030-4562-9d6a-996ceaa7ab08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configration/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcases/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcases/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcases/test_LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/logfile.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/Loginpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_pass_001.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_pass_002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/test_pass_003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilites/ReadconfigFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilites/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilites/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/HtmlReports/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/HtmlReports/my_reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configration/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/test_LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logfile.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
